@@ -1,0 +1,156 @@
+[
+  {
+    "Width": 698.0,
+    "Height": 177.0,
+    "Left": 49.0,
+    "Top": 282.0,
+    "ColumnDefinitions": [
+      120.0,
+      142.0,
+      157.0,
+      139.0,
+      138.0
+    ],
+    "RowDefinitions": [
+      49.0,
+      45.0,
+      55.0,
+      26.0
+    ],
+    "Cells": [
+      {
+        "Row": 0,
+        "Column": 0,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 0,
+        "Column": 1,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 0,
+        "Column": 2,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 0,
+        "Column": 3,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 0,
+        "Column": 4,
+        "RowSpan": 4,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 1,
+        "Column": 0,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 1,
+        "Column": 1,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 1,
+        "Column": 2,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 1,
+        "Column": 3,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 2,
+        "Column": 0,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 2,
+        "Column": 1,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 2,
+        "Column": 2,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 2,
+        "Column": 3,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 3,
+        "Column": 0,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 3,
+        "Column": 1,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 3,
+        "Column": 2,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      },
+      {
+        "Row": 3,
+        "Column": 3,
+        "RowSpan": 1,
+        "ColumnSpan": 1,
+        "IsMerged": false
+      }
+    ],
+    "Separators": {
+      "RowSeparators": [
+        49.0,
+        94.0,
+        149.0
+      ],
+      "ColumnSeparators": [
+        120.0,
+        262.0,
+        419.0,
+        558.0
+      ],
+      "MergedCells": []
+    }
+  }
+]
